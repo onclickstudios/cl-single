@@ -1,0 +1,19 @@
+{
+  "name": "cmp-layout-single",
+  "repo": "onclickstudios/cmp-layout-single",
+  "description": "Basic single column layout",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "onclickstudios/cmp-layout-base": "*",
+    "onclickstudios/cmp-header-basic": "*",
+    "onclickstudios/cmp-footer-basic": "*",
+    "tjb1982/hoquet": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
