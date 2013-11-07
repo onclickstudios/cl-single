@@ -1,6 +1,6 @@
 var base = require('cmp-layout-base'),
-    header = require('cmp-header-basic'),
-    footer = require('cmp-footer-basic');
+    header = require('cmp-header-base'),
+    footer = require('cmp-footer-base');
 
 module.exports = function(c) {
   return base({
