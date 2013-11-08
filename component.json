@@ -1,6 +1,6 @@
 {
-  "name": "cmp-layout-single",
-  "repo": "onclickstudios/cmp-layout-single",
+  "name": "cl-single",
+  "repo": "onclickstudios/cl-single",
   "description": "Basic single column layout",
   "version": "0.0.1",
   "keywords": [],

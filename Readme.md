@@ -1,5 +1,5 @@
 
-# nclk-layout-single
+# cl-single
 
   Basic single column layout
 
@@ -7,7 +7,7 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install onclickstudios/nclk-layout-single
+    $ component install onclickstudios/cl-single
 
 ## API
 
