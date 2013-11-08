@@ -5,9 +5,6 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "onclickstudios/cmp-layout-base": "*",
-    "onclickstudios/cmp-header-base": "*",
-    "onclickstudios/cmp-footer-base": "*",
     "tjb1982/hoquet": "*"
   },
   "development": {},
